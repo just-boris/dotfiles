@@ -1,0 +1,6 @@
+[user]
+	name = just-boris
+	email = just-boris@yandex-team.ru
+[core]
+	excludesfile = ~/.gitignore
+	autocrlf = input
